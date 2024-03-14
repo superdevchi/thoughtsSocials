@@ -12,10 +12,6 @@ you can use the social media api i posted
 
 <img width="1680" alt="Screenshot 2024-03-14 at 4 45 02 AM" src="https://9socialmedia.s3.eu-north-1.amazonaws.com/Screen+Recording+2024-03-14+at+4.40.18+AM.mov">
 
-<video width="1200" height="1200" controls>
-        <source src="https://9socialmedia.s3.eu-north-1.amazonaws.com/Screen+Recording+2024-03-14+at+4.40.18+AM.mov" type="video/mp4">
-
- </video>
 
 Application Preview
 https://9socialmedia.s3.eu-north-1.amazonaws.com/Screen+Recording+2024-03-14+at+4.40.18+AM.mov
