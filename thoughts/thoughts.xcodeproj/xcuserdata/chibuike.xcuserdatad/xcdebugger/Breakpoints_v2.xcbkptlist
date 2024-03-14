@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "204F5B86-61B5-4F42-ABEE-5EB3331E6229"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A3C17F3-8EF6-49F9-8C2F-42C419A6C937"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../.Trash/CreateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B015CCBB-7433-42C6-945A-FA824460847C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "thoughts/views/UserCreateView/UserCreationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B015CCBB-7433-42C6-945A-FA824460847C - 2a1fec3c9006ec8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "thoughts.UserCreationView.body.getter : some"
+                  moduleName = "thoughts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chibuike/Desktop/thoughts/thoughts/views/UserCreateView/UserCreationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "310">
+               </Location>
+               <Location
+                  uuid = "B015CCBB-7433-42C6-945A-FA824460847C - fd635a04c5986a86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; thoughts.ContentView in thoughts.UserCreationView.body.getter : some"
+                  moduleName = "thoughts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chibuike/Desktop/thoughts/thoughts/views/UserCreateView/UserCreationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "B015CCBB-7433-42C6-945A-FA824460847C - 2a1fec3c9006ed4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "thoughts.UserCreationView.body.getter : some"
+                  moduleName = "thoughts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chibuike/Desktop/thoughts/thoughts/views/UserCreateView/UserCreationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "375">
+               </Location>
+               <Location
+                  uuid = "B015CCBB-7433-42C6-945A-FA824460847C - fd635a04c5986ac0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; thoughts.ContentView in thoughts.UserCreationView.body.getter : some"
+                  moduleName = "thoughts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chibuike/Desktop/thoughts/thoughts/views/UserCreateView/UserCreationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "894568FA-A5BF-4B29-9B1E-2B6BFD51DA05"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "thoughts/views/UserCreateView/UserCreationViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "doifollowthisuser(USERID:FOLLOWERID:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "894568FA-A5BF-4B29-9B1E-2B6BFD51DA05 - b2350eb41327d71d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "thoughts.UserCreationViewModel.returngetLikes(POSTID: Swift.String) -&gt; Swift.Int"
+                  moduleName = "thoughts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chibuike/Desktop/thoughts/thoughts/views/UserCreateView/UserCreationViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "894568FA-A5BF-4B29-9B1E-2B6BFD51DA05 - 873625d442ad0e2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in thoughts.UserCreationViewModel.returngetLikes(POSTID: Swift.String) -&gt; Swift.Int"
+                  moduleName = "thoughts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chibuike/Desktop/thoughts/thoughts/views/UserCreateView/UserCreationViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "138">
+               </Location>
+               <Location
+                  uuid = "894568FA-A5BF-4B29-9B1E-2B6BFD51DA05 - 3f4a64ddace4e57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in thoughts.UserCreationViewModel.doifollowthisuser(USERID: Swift.String, FOLLOWERID: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "thoughts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chibuike/Desktop/thoughts/thoughts/views/UserCreateView/UserCreationViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "1219">
+               </Location>
+               <Location
+                  uuid = "894568FA-A5BF-4B29-9B1E-2B6BFD51DA05 - 3f4a64ddace4e57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in thoughts.UserCreationViewModel.doifollowthisuser(USERID: Swift.String, FOLLOWERID: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "thoughts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chibuike/Desktop/thoughts/thoughts/views/UserCreateView/UserCreationViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "1302">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12CBBFCD-EE72-442F-A87B-4768C9661118"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "thoughts/views/UserCreateView/UserCreationViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "407"
+            endingLineNumber = "407"
+            landmarkName = "userregistration(EMAIL:USERNAME:PASSWORD:IMAGE:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C962B20-7BF1-4BD8-B004-46A02CE22E1A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "thoughts/views/ChatView/ChatArea.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "messagesView"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B566A15-46FB-4C01-9E7D-A3060405DF5C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "thoughts/views/ChatView/ChatArea.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "messagesView"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
